@@ -36,7 +36,7 @@ Android開発ではAndroidStudioというソフトウェアを使用します。
 
 ### 1.　エミュレータの起動
 
-AndroidStudioの起動後、エミュレータを起動してあHelloWorldと表示されるアプリが起動されることを確認しましょう
+AndroidStudioの起動後、エミュレータを起動してHelloWorldと表示されるアプリが起動されることを確認しましょう
 
 ### 2. ビューの追加
 
