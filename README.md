@@ -25,10 +25,10 @@ Android開発ではAndroidStudioというソフトウェアを使用します。
 ## 課題の流れ
 
 1. このリポジトリをcloneします
-2. 自分の名前のブランチを切ります(ex. git checkout -b takahashi)
-3. リポジトリのルートに自分の名前のディレクトリを作成します(ex. ~/AndroidTraining/takahashi)
+2. 自分の名前のブランチを切ります(ex. `git checkout -b takahashi`)
+3. リポジトリのルートに自分の名前のディレクトリを作成します(ex. `mkdir ~/AndroidTraining/takahashi`)
 4. 作成したディレクトリの中にAndroidのアプリを作成します
-5. 指定された課題が完了したところでリモートの自分の名前のブランチにプッシュします(ex. git push origin takahashi)
+5. 指定された課題が完了したところでリモートの自分の名前のブランチにプッシュします(ex. `git push origin takahashi`)
 6. masterにプルリクエストを作成します
 7. レビューをもらいmasterにマージされたところで課題完了です
 
